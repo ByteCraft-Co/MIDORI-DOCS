@@ -35,6 +35,11 @@ The docs include a built-in installer listing surfaced on the downloads page:
 | Artifact | Version | Status | Download Access |
 | --- | --- | --- | --- |
 | MIDORI Setup | v0.1.0 | Experimental | Available from `/downloads` |
+| MIDORI Setup | v0.2.0 | Experimental | Available from `/downloads` |
+| MIDORI Setup | v0.2.1 | Experimental | Available from `/downloads` |
+| MIDORI Setup | v0.2.2 | Experimental | Available from `/downloads` |
+
+All `v0.x` channels are experimental until the first stable integer release (`v1`).
 
 ## Technology Stack
 
