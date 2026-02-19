@@ -1,15 +1,9 @@
 const installers = [
   {
-    version: "v0.1.0",
+    version: "v0.2.2",
     status: "Experimental",
-    focus: "Baseline compiler + CLI + installer channel",
-    file: "midori-setup-v0.1.0.exe"
-  },
-  {
-    version: "v0.2.0",
-    status: "Experimental",
-    focus: "Installer and project workflow expansion",
-    file: "midori-setup-v0.2.0.exe"
+    focus: "Advanced IntelliSense release (keywords/symbols/fuzzy suggestions)",
+    file: "midori-setup-v0.2.2.exe"
   },
   {
     version: "v0.2.1",
@@ -18,10 +12,16 @@ const installers = [
     file: "midori-setup-v0.2.1.exe"
   },
   {
-    version: "v0.2.2",
+    version: "v0.2.0",
     status: "Experimental",
-    focus: "Advanced IntelliSense release (keywords/symbols/fuzzy suggestions)",
-    file: "midori-setup-v0.2.2.exe"
+    focus: "Installer and project workflow expansion",
+    file: "midori-setup-v0.2.0.exe"
+  },
+  {
+    version: "v0.1.0",
+    status: "Experimental",
+    focus: "Baseline compiler + CLI + installer channel",
+    file: "midori-setup-v0.1.0.exe"
   }
 ];
 
